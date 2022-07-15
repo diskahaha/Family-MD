@@ -3,15 +3,11 @@ let handler = async m => {
 let krtu = `Kartu Intro`
 m.reply(`
 0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
-│       *「 Kartu Intro 」*
+│       *「 Intro Dulu Lah Ajg 🤧 」*
 │ *Nama     :* 
-│ *Gender   :* 
-│ *Umur      :* 
-│ *Hobby    :* 
-│ *Kelas      :* 
-│ *Asal         :* 
-│ *Agama    :* 
- |  *Status     :* 
+│ *Nama Bapak   :* 
+│ *Nama Ibu      :* 
+│ *Kapan Mati    :* 
 ╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙
 `.trim()) // Tambah sendiri kalo mau
 }
