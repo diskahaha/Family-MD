@@ -38,20 +38,20 @@ global.APIKeys = { // APIKey Here
   'https://api.adiofficial.xyz': 'apikey lu'
 }
 
-global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
+global.wait = '_*SABAR LAH KMTD 🤧...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/aguzfamilia"
+global.urlnya = "https://www.instagram.com/f"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-2017-0984'
+global.phn = '+62-812-8557-8808'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
-global.salah = '_*Salah❌*_'
+global.salah = '_*Salah Idiot❌*_'
 global.dikit = "dikit lagi, semangat ya :')"
 
 global.multiplier = 100 // The higher, The harder levelup
@@ -62,7 +62,7 @@ global.author = data.owner;
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy ᴀɢᴜᴢ ꜰᴀᴍɪʟɪᴀ'
+        global.colong2 = 'ʙy 𝕭𝖔𝖙 • Andii ༢࿔ྀ'
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 
